@@ -1,0 +1,42 @@
+.col-12 {
+    height: 120px;
+    background-color: cyan;
+    border: 1px solid white;
+    margin-top: 40px;
+}
+
+.col-10 {
+    background-color: green;
+    border: 1px solid white;
+    height: 100px;
+    margin: 8px;
+}
+
+.col-8 {
+    background-color: blue;
+    border: 1px solid white;
+    height: 80px;
+    margin: 8px;
+}
+
+.col-6 {
+    background-color: red;
+    border: 1px solid white;
+    height: 60px;
+    margin: 8px;
+}
+
+.col-4 {
+    background-color: yellow;
+    border: 1px solid white;
+    height: 40px;
+    margin: 8px;
+}
+
+.box {
+    background-color: blueviolet;
+    border: 1px solid white;
+    height: 20px;
+    width: 20px;
+    margin: 8px;
+}
